@@ -5,13 +5,13 @@ Land.Help()
 
 #Initiate Oshell environment----
 
-OshellDirectory = "C:/Users/xliu153/OneDrive - JNJ/Desktop/Omicsoft/Oshell"
+OshellDirectory = "C:/Users/xliu/OneDrive - /Desktop/Omicsoft/Oshell"
 
 Land.InitiateOshell(
   MonoPath = MonoPath,
   OshellDirectory = OshellDirectory,
-  BaseDirectory  = "C:/Users/xliu153/OneDrive - JNJ/Documents/Omicsoft",
-  TempDirectory = "C:/Users/xliu153/OneDrive - JNJ/Documents/Omicsoft/Temp")
+  BaseDirectory  = "C:/Users/xliu/OneDrive - /Desktop/Omicsoft/Oshell",
+  TempDirectory = "C:/Users/xliu1/OneDrive - /Documents/Omicsoft/Temp")
 
 Land.CheckVersion()
 Land.OshellUpdate()
